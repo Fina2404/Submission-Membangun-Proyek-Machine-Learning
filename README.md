@@ -16,7 +16,7 @@ This repository contains my final project for the **Machine Learning Course** at
 
 ## 🛠️ Tech Stack
 - **Programming Language:** Python 🐍
-- **Libraries Used:** Pandas, NumPy, Matplotlib, Seaborn
+- **Libraries Used:** Pandas, NumPy, scikit-learn, Matplotlib, Seaborn
 - **Google Colab** for model development
 
 ## 📂 Project Structure
