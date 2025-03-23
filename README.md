@@ -26,6 +26,7 @@ This repository contains my final project for the **Machine Learning Course** at
 ├── [Clustering]_Submission_Akhir.ipynb  # Jupyter Notebook for clustering
 ├── [Klasifikasi]_Submission_Akhir.ipynb # Jupyter Notebook for classification
 ├── README.md                       # Project documentation
+├── requirements.txt
 ```
 
 ## 🚀 How to Run the Project
