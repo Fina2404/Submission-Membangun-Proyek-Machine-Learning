@@ -49,8 +49,8 @@ This project enhanced my understanding of both **supervised** and **unsupervised
 
 ## 🌐 Connect with Me
 If you find this project useful, let's connect! 😊
-- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/fina-dwi-aulia-866ab9289)
-- GitHub: [Your GitHub](https://github.com/Fina2404)
+- LinkedIn: [LinkedIn Profile](www.linkedin.com/in/fina-dwi-aulia-866ab9289)
+- GitHub: [GitHub](https://github.com/Fina2404)
 
 ---
 📌 **Feel free to fork, star, and contribute!** 🚀
